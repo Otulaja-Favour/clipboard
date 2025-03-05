@@ -87,13 +87,15 @@ p {
     flex-direction: row;
     justify-content: center;
     /* padding: 0px 30px; */
-    margin-top: 60px;
-    margin-bottom: 90px;
+    /* margin-top: 60px; */
+    /* margin-bottom: 90px; */
+    margin: 50px 8%;
+    gap: 50px;
 }
 
 .pic1 {
     width: 50%;
-    padding-left: 30px;
+    /* padding-left: 30px; */
 }
 
 .pic1 img {
@@ -106,7 +108,7 @@ p {
 
 .text {
     width: 50%;
-    padding-left: 100px;
+    /* padding-left: 100px; */
     padding-top: 40px;
     text-align: justify;
 }
