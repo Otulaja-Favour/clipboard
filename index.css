@@ -64,16 +64,18 @@ button:hover {
     background-color: #26BBA5;
     /* box-shadow: 5px 5px #26BBA5; */
     box-shadow: 1px 1px 10px 3px #D0F5E9;
-
-
+}
+.but1 button:hover{
+    background-color: #04463c ;
 }
 
 .but2 button {
     background-color: #6174FF;
     box-shadow: 1px 1px 10px 3px #ECECEC;
-
 }
-
+.but2 button:hover{
+    background-color:#050b38 ;
+}
 p {
     line-height: 25px;
     /* max-width: 300px; */
